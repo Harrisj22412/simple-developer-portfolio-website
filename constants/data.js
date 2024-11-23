@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "manuarora700",
   name: "Jalen Harris",
   designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "/IMG_2547 2.jpg",
   email: "harrisj22412@gmail.com",
   phone: "614-937-7182",
   address: "Washington, DC",
