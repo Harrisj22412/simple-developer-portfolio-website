@@ -1,5 +1,5 @@
 const userData = {
-  githubUsername: "manuarora700",
+  githubUsername: "Harrisj22412",
   name: "Jalen Harris",
   designation: "Full-Stack Developer",
   avatarUrl: "/IMG_2547 2.jpg",
@@ -8,9 +8,9 @@ const userData = {
   address: "Washington, DC",
   projects: [
     {
-      title: "Tailwind Master Kit",
+      title: "Invoice App",
       link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      imgUrl: "/invoice.png",
     },
     {
       title: "PlaceholderTech",
