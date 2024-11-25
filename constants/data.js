@@ -8,27 +8,27 @@ const userData = {
   projects: [
     {
       title: "Invoice App",
-      link: "https://tailwindmasterkit.com",
+      link: "https://github.com/Harrisj22412/invoice-app-with-neon",
       imgUrl: "/invoice.png",
     },
     {
       title: "Meme Generator",
-      link: "https://placeholdertech.in",
+      link: "https://github.com/Harrisj22412/meme-generator",
       imgUrl: "/drake.png",
     },
     {
       title: "AI Task Manager",
-      link: "https://manuarora.in",
+      link: "https://taskwrite.netlify.app/",
       imgUrl: "/todoApp.png",
     },
     {
       title: "trading bot",
-      link: "https://covidrescue.co.in",
+      link: "https://github.com/Harrisj22412/trading-bot-ui-main",
       imgUrl: "/trading-bot.png",
     },
     {
       title: "Chatbox AI",
-      link: "https://algochurn.com",
+      link: "https://github.com/Harrisj22412/chatbox-ai",
       imgUrl: "/chatbot.png",
     },
     

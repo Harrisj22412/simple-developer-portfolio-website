@@ -36,7 +36,7 @@ export default function FavoriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
-            href="https://tailwindmasterkit.com"
+            href="https://github.com/Harrisj22412/invoice-app-with-neon"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
