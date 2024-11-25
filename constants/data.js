@@ -2,9 +2,8 @@ const userData = {
   githubUsername: "Harrisj22412",
   name: "Jalen Harris",
   designation: "Full-Stack Developer",
-  avatarUrl: "/IMG_2547 2.jpg",
+  avatarUrl: "/IMG_2547.jpg",
   email: "harrisj22412@gmail.com",
-  phone: "614-937-7182",
   address: "Washington, DC",
   projects: [
     {
@@ -13,40 +12,26 @@ const userData = {
       imgUrl: "/invoice.png",
     },
     {
-      title: "PlaceholderTech",
+      title: "Meme Generator",
       link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      imgUrl: "/drake.png",
     },
     {
-      title: "Portfolio",
+      title: "AI Task Manager",
       link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      imgUrl: "/todoApp.png",
     },
     {
-      title: "CovidRescue",
+      title: "trading bot",
       link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      imgUrl: "/trading-bot.png",
     },
     {
-      title: "Algochurn",
+      title: "Chatbox AI",
       link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
+      imgUrl: "/chatbot.png",
     },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    
   ],
   about: {
     title:
