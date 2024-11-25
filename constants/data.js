@@ -95,8 +95,6 @@ I’m always open to new opportunities to contribute to impactful projects and c
    
     linkedin: "ttps://www.linkedin.com/in/jalenharris7",
     github: "https://github.com/Harrisj22412",
-    
-    peerlist: "https://peerlist.io/manuarora",
   },
 };
 

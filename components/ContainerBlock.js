@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Jalen Harris - Developer, Writer, Creator and YouTuber",
     description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/IMG_2547.jpg",
+    image: "IMG_2547.jpg",
     type: "website",
     ...customMeta,
   };
