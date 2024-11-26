@@ -8,7 +8,7 @@ const userData = {
   projects: [
     {
       title: "Invoice App",
-      link: "https://github.com/Harrisj22412/invoice-app-with-neon",
+      link: "https://drive.google.com/file/d/1XfLga3Q4uXsofrfJ1V87ER35yMqYE4Vh/view?usp=sharing",
       imgUrl: "/invoice.png",
     },
     {
@@ -28,7 +28,7 @@ const userData = {
     },
     {
       title: "Chatbox AI",
-      link: "https://github.com/Harrisj22412/chatbox-ai",
+      link: "https://jalen-chat-gpt.netlify.app/",
       imgUrl: "/chatbot.png",
     },
     
@@ -69,7 +69,7 @@ I’m always open to new opportunities to contribute to impactful projects and c
       title: "Volunteer Computer Scrience",
       company: "Microsoft",
       year: "2021",
-      companyLink: "https://algochurn.com",
+      companyLink: "",
       desc: "Taught computer science concepts to high school students and helped them build their first web applications using HTML, CSS, and JavaScript.",
     },
     {
