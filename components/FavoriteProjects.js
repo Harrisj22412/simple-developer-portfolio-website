@@ -93,6 +93,96 @@ export default function FavoriteProjects() {
               </h1>
             </div>
           </a>
+          <a
+            href="https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link"
+            className="w-full block col-span-3 shadow-2xl"
+          >
+            <div className="relative overflow-hidden">
+              <img
+                src="/facetime.png"
+                alt="portfolio"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                FaceTime App
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                06
+              </h1>
+            </div>
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link"
+            className="w-full block col-span-3 shadow-2xl"
+          >
+            <div className="relative overflow-hidden">
+              <img
+                src="/zoom.jpeg"
+                alt="zoom"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                Zoom App
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                07
+              </h1>
+            </div>
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link"
+            className="w-full block col-span-3 shadow-2xl"
+          >
+            <div className="relative overflow-hidden">
+              <img
+                src="/mockATM.png"
+                alt="atm"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                Mock ATM App
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                08
+              </h1>
+            </div>
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link"
+            className="w-full block col-span-3 shadow-2xl"
+          >
+            <div className="relative overflow-hidden">
+              <img
+                src="/Price-Comparison.jpeg"
+                alt=" Price Compare Tool"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                Price Comparison Tool
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                08
+              </h1>
+            </div>
+          </a>
+          <a
+            href="https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link"
+            className="w-full block col-span-3 shadow-2xl"
+          >
+            <div className="relative overflow-hidden">
+              <img
+                src="/Bitcoin.jpeg"
+                alt="Bitcoin"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                Bitcoin
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
+                09
+              </h1>
+            </div>
+          </a>
         </div>
       </div>
     </div>

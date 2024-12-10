@@ -21,11 +21,9 @@ export default function Home({ repositories }) {
 }
 
 export const getServerSideProps = async () => {
-  console.log(process.env.AUTH_TOKEN);
-  let token = process.env.AUTH_TOKEN;
+  let token = process.env.AUTH_TOKEN || null;
 
-  const repositories = await getLatestRepos(userData, token);
-  // console.log("REPOSITORIES", repositories);
+  const repositories = (await getLatestRepos(userData, token)) || [];
 
   return {
     props: {

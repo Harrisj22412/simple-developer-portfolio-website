@@ -13,7 +13,7 @@ const userData = {
     },
     {
       title: "Meme Generator",
-      link: "https://github.com/Harrisj22412/meme-generator",
+      link: "https://codepen.io/Harrisj22412/full/PwYzRwR",
       imgUrl: "/drake.png",
     },
     {
@@ -25,6 +25,31 @@ const userData = {
       title: "trading bot",
       link: "https://github.com/Harrisj22412/trading-bot-ui-main",
       imgUrl: "/trading-bot.png",
+    },
+    {
+      title: "FaceTime App",
+      link: "https://drive.google.com/file/d/1Zw3w43DaejOqLenOJCEP6ZZwFz-tAm1E/view?usp=drive_link",
+      imgUrl: "/facetime-app.png",
+    },
+    {
+      title: "Zoom App",
+      link: "https://github.com/Harrisj22412/Zoom",
+      imgUrl: "/zoom.jpeg",
+    },
+    {
+      title: "Mock ATM",
+      link: "https://github.com/Harrisj22412/MockATM/tree/MockATMProject/ReSkillsAmerica",
+      imgUrl: "/mockATM.png",
+    },
+    {
+      title: "Price Comparison Tool",
+      link: "https://github.com/Harrisj22412/Price-Comparison-Group1-BE",
+      imgUrl: "/Price-Comparison.jpeg",
+    },
+    {
+      title: "Bitcoin",
+      link: "https://github.com/Harrisj22412/Bitcoin-Chart",
+      imgUrl: "/Bitcoin.jpeg",
     },
     {
       title: "Chatbox AI",
@@ -66,7 +91,7 @@ I’m always open to new opportunities to contribute to impactful projects and c
       desc: "Created API endpoints for the Reskill Americans platform using Node.js, Express, and MongoDB. Integrated third-party APIs and developed a custom CMS for the platform.",
     },
     {
-      title: "Volunteer Computer Scrience",
+      title: "Volunteer Computer Science",
       company: "Microsoft",
       year: "2021",
       companyLink: "",
